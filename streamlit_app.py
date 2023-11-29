@@ -1,2 +1,2 @@
 import streamlit
-streamit.Title('MY PARENTS NEW HEALTHY DINNER')
+streamlit.Title('MY PARENTS NEW HEALTHY DINNER')
